@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Furqan Hun - a student of software engineering from Pakistan.
+I'm Muhammad Furqan Khalil (Furqan Hun) - a student of software engineering from Pakistan.
 
 ## 🔭 I’m currently working on ...
 
