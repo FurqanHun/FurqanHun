@@ -25,6 +25,7 @@ I'm Muhammad Furqan Khalil (Furqan Hun) - a student of software engineering from
 
 - LinkedIn: https://www.linkedin.com/in/FurqanHun
 - Instagram: https://www.instagram.com/furqan_hi_hun
+- Twitter: https://www.twitter.com/FurqanHun
 - GitHub: https://github.com/FurqanHun
 
 ## 📊 My GitHub stats ...
