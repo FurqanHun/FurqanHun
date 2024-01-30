@@ -10,9 +10,7 @@ I'm Muhammad Furqan Khalil (Furqan Hun) - a student of software engineering from
 
 ## 🌱 I’m currently learning ...
 
-- C#
-- Web Development
-- GODOT
+- Python
 
 ## 💬 Ask me about ...
 
@@ -20,6 +18,7 @@ I'm Muhammad Furqan Khalil (Furqan Hun) - a student of software engineering from
 - C
 - HTML
 - Javascript
+- Python
 
 ## 📫 How to reach me ...
 
