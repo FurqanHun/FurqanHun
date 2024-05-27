@@ -20,7 +20,7 @@ I'm Furqan Hun - a student of software engineering.
 
 - Email: business.furqanhun@gmail.com
 - Instagram: https://www.instagram.com/furqan_hi_hun
-- Discord: `Furqan Hun#0001` OR `@furqanhun`
+- Discord: `Furqan#0001` OR `@furqanhun`
 
 > **Note:** I'm not active on social media, so it may take some time to respond. Its better to contact me via email or discord.
 
