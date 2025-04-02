@@ -15,9 +15,10 @@ I'm **FurqanHun** - a student of software engineering.
 - Anything (that I can yap about)
 
 ## 📫 How to reach me ...
-- 📧 **Email**: [business.furqanhun@gmail.com](mailto:business.furqanhun@gmail.com)
+- 📧 **Primary Email:** [furqanhun@proton.me](mailto:furqanhun@proton.me)
+- 📧 **Business Email**: [business.furqanhun@gmail.com](mailto:business.furqanhun@gmail.com)
 
-Why "business" in the email? Well, it's my foolproof method to avoid signing up for that one sketchy website I randomly remembered from 2015. Gotta keep things somewhat professional, right? 😅
+The "business" email is just there for the sake of being there.
 > _**Note:** Social media? Yeah, about that... it's basically a digital wasteland over here. Email is the best bet if you actually want a response. If you message me on social media, expect a like... in 7-30 business days (or whenever I remember it exists)._
 
 ## 📊 My GitHub stats ...
