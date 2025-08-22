@@ -6,7 +6,10 @@
 # 👋 Yo, I’m FurqanHun
 
 I break things, build things, automate things, and sometimes make them look pretty.  
-Currently studying **Software Engineering**, and mostly vibing with scripts, exploits, and browser windows I forgot to close 3 days ago.
+Currently studying **Software Engineering**, and I honestly don’t know what the fuck I’m doing.
+
+### Life update
+I've been on summer break, and it feels like I'm back at "near" starting point, at least for the "coding" part.
 
 ## 🔭 What I'm working on ...
 - Hobby projects, aka the stuff that either doesn’t exist yet or exists not the way I want it to
@@ -15,7 +18,7 @@ Currently studying **Software Engineering**, and mostly vibing with scripts, exp
 - 🛡️ **Cyber Security** (especially malware analysis)
 - 🤖 **Scripting/Automation** (Python, Bash)
 - 🎨 **UI/UX Designing**
-- 🌐 **Web Development**
+- 🌐 **Web Development** (I’ve actually started to hate it with a passion)
 
 ## 💬 Ask me about ...
 - Anything that I can yap about
@@ -30,11 +33,12 @@ The "business" email is just there for the sake of being there.
 
 ## 📊 My GitHub stats ...
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FurqanHun&show_icons=true&theme=radical" alt="Qanii's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FurqanHun&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=FF5555&title_color=FF5555" alt="FurqanHun's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurqanHun&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurqanHun&layout=compact&theme=radical&hide=jupyter%20notebook&bg_color=0D1117&hide_border=true&title_color=FF5555" alt="Top Langs" />
 </p>
+
 
 ---
 
