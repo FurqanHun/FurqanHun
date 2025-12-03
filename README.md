@@ -32,13 +32,15 @@ The "business" email is just there for the sake of being there.
 > _Social media? Technically yes. Practically, expect a response in 7–30 business years._
 
 ## 📊 My GitHub stats ...
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FurqanHun&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=FF5555&title_color=FF5555" alt="FurqanHun's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurqanHun&layout=compact&theme=radical&hide=jupyter%20notebook&bg_color=0D1117&hide_border=true&title_color=FF5555" alt="Top Langs" />
+</p> -->
+<p align="center">
+  <img src="github-metrics.svg" alt="FurqanHun's Monke Stats" />
 </p>
-
 
 ---
 
