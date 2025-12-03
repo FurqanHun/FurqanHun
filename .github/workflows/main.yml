@@ -1,0 +1,42 @@
+name: Metrics
+
+on:
+  # Update every night at midnight UTC (System time)
+  schedule: [{cron: "0 0 * * *"}]
+  # Manual trigger for when you want to force an update
+  workflow_dispatch:
+  # Update when you push to main/master
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: gh-metrics/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # --- USER INFO ---
+          user: FurqanHun
+          template: classic
+          config_timezone: UTC
+          
+          # --- VISUALS (THEME) ---
+          # 'dark' is closest to 0D1117. 
+          config_theme: dark 
+          
+          # --- CONTENT: PART 1 (General Stats) ---
+          # replaces first image (Stars, Commits, PRs)
+          base: header, activity, community, repositories, metadata
+          
+          # --- CONTENT: PART 2 (Top Langs) ---
+          # replaces second image.
+          plugin_languages: yes
+          # don't want jupyter showing up
+          plugin_languages_ignored: "jupyter notebook, html, css" 
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          plugin_languages_details: bytes-size, percentage
