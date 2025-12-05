@@ -9,7 +9,7 @@ I break things, build things, automate things, and sometimes make them look pret
 Currently studying **Software Engineering**, and I honestly don’t know what the fuck I’m doing.
 
 ### Life update
-I've been on summer break, and it feels like I'm back at "near" starting point, at least for the "coding" part.
+It was going well, until idk something something, and it feels like there's nothing I can do. It's the reverse of "If there's a will, there's a way" feeling.
 
 ## 🔭 What I'm working on ...
 - Hobby projects, aka the stuff that either doesn’t exist yet or exists not the way I want it to
