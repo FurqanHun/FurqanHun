@@ -40,8 +40,8 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -221,7 +221,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="205.55344659145086" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="205.55344659145086" y="0" width="73.53345738898732" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="279.0869039804382" y="0" width="65.11547455334703" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="279.0869039804382" y="0" width="65.11547455334703" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="344.20237853378524" y="0" width="51.56828956176086" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="395.7706680955461" y="0" width="35.393579917553446" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="431.16424801309955" y="0" width="12.737369755727997" height="8" fill="#555555"/>
@@ -245,7 +245,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
@@ -333,7 +333,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2026, 00:47:08 (timezone UTC) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Aug 2026, 05:53:53 (timezone UTC) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
