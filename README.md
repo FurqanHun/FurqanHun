@@ -6,14 +6,14 @@
 # 👋 Yo, I’m FurqanHun
 
 I break things, build things, automate things, and sometimes (please read this word twice but with emphasis cause I said so) make them look pretty.
-Completed my **BS Software Engineering** degree requirements, so I’m technically a graduate looking forward to extending my unemployment, but legally I’m still a student.
+Completed my **BS Software Engineering** degree requirements, so I’m technically a graduate.
 
 **Life Check:**
 It was going well, until... idk something something, and now it feels like there's nothing I can do. It's basically the reverse of the "If there's a will, there's a way" feeling.
 
 ---
 
-### What I actually do
+### What I actually do (in my free time ofc)
 I mostly work on hobby projects—stuff that either doesn’t exist yet or exists but annoys me (this is a lie, it’s not "mostly"...it’s *only* been hobby projects for a long time). I love **Cyber Security** (malware analysis), **Scripting/Automation** (Python, Bash), **System Design** (I'm so good I designed my own sleep schedule which is perfectly healthy), **UI/UX Designing**, and this small thing called **SQA**.
 
 As for **Web Development**? We don't talk about it here.
