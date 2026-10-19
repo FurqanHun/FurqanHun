@@ -6,7 +6,7 @@
 # 👋 Yo, I’m FurqanHun
 
 I break things, build things, automate things, and sometimes (please read this word twice but with emphasis cause I said so) make them look pretty.
-Completed my **BS Software Engineering** degree requirements, so I’m technically a graduate.
+Completed my **BS Software Engineering** degree requirements, so I’m ~~technically~~ a graduate.
 
 **Life Check:**
 It was going well, until... idk something something, and now it feels like there's nothing I can do. It's basically the reverse of the "If there's a will, there's a way" feeling.
